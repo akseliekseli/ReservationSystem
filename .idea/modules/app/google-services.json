@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1049616001829",
+    "firebase_url": "https://olio-harkka-4dfac.firebaseio.com",
+    "project_id": "olio-harkka-4dfac",
+    "storage_bucket": "olio-harkka-4dfac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049616001829:android:a909cfc0be5c65474808cc",
+        "android_client_info": {
+          "package_name": "com.example.reservationsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1049616001829-mmi4k8b2s92qnn4skv805kc3ni336u8p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.reservationsystem",
+            "certificate_hash": "55ea625475e3e2e3bc240a04375127b17ace4d0a"
+          }
+        },
+        {
+          "client_id": "1049616001829-83b0u9fnmaj5kijdikckkuno6cl3t6oh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8ruopIo55GZmball2WqgNsUfx1y68VjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1049616001829-83b0u9fnmaj5kijdikckkuno6cl3t6oh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
